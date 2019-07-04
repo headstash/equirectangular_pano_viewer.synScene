@@ -1,0 +1,52 @@
+{
+   "CONTROLS" : [
+       {
+           "DEFAULT" : 0.5,
+           "DESCRIPTION" : "",
+           "IS_META" : false,
+           "MAX" : 1,
+           "MIN" : 0,
+           "NAME" : "lookXY",
+           "PARAMS" : 0.0099999997764825821,
+           "TYPE" : "xy smooth",
+           "UI_GROUP" : "camera"
+       },
+       {
+           "DEFAULT" : 0.5,
+           "DESCRIPTION" : "",
+           "IS_META" : false,
+           "MAX" : 1,
+           "MIN" : 0,
+           "NAME" : "textureXY",
+           "PARAMS" : 0.0099999997764825821,
+           "TYPE" : "xy smooth",
+           "UI_GROUP" : "texture"
+       },
+      {
+         "DEFAULT" : 0.25,
+         "DESCRIPTION" : "",
+         "IS_META" : false,
+         "MAX" : 1,
+         "MIN" : 0,
+         "NAME" : "ZOOM",
+         "TYPE" : "slider smooth",
+         "UI_GROUP" : "texture"
+      },
+      {
+         "DEFAULT" : 0.5,
+         "DESCRIPTION" : "",
+         "IS_META" : false,
+         "MAX" : 1,
+         "MIN" : 0.1,
+         "NAME" : "DISTORT",
+         "TYPE" : "slider smooth",
+         "UI_GROUP" : "texture"
+      }
+   ],
+   "CREDIT" : "Shady Headstash",
+   "DESCRIPTION" : "Equirectangular photo viewer with zoom and distortion.",
+   "HEIGHT" : 1080,
+   "IMAGE_PATH" : "equirectangular_pano_viewer.png",
+   "TITLE" : "Equirectangular Pano Viewer",
+   "WIDTH" : 1920
+}
