@@ -44,7 +44,7 @@
       }
    ],
    "CREDIT" : "Shady Headstash",
-   "DESCRIPTION" : "Equirectangular photo viewer with zoom and distortion.",
+   "DESCRIPTION" : "Equirectangular photo viewer with zoom and distortion. Based on https://www.interactiveshaderformat.com/sketches/1269",
    "HEIGHT" : 1080,
    "IMAGE_PATH" : "equirectangular_pano_viewer.png",
    "TITLE" : "Equirectangular Pano Viewer",
