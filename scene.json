@@ -7,7 +7,6 @@
            "MAX" : 1,
            "MIN" : 0,
            "NAME" : "lookXY",
-           "PARAMS" : 0.0099999997764825821,
            "TYPE" : "xy smooth",
            "UI_GROUP" : "camera"
        },
@@ -18,16 +17,15 @@
            "MAX" : 1,
            "MIN" : 0,
            "NAME" : "textureXY",
-           "PARAMS" : 0.0099999997764825821,
            "TYPE" : "xy smooth",
            "UI_GROUP" : "texture"
        },
       {
-         "DEFAULT" : 0.25,
+         "DEFAULT" : 0.5,
          "DESCRIPTION" : "",
          "IS_META" : false,
-         "MAX" : 1,
-         "MIN" : 0,
+         "MAX" : 2,
+         "MIN" : -2,
          "NAME" : "ZOOM",
          "TYPE" : "slider smooth",
          "UI_GROUP" : "texture"
