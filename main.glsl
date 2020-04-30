@@ -54,5 +54,5 @@ vec4 renderMain() {
 
     mainImage(out_FragColor, _xy.xy);
 
-return out_FragColor;
+    return out_FragColor;
  }
